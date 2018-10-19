@@ -24,6 +24,8 @@ Rust language interoperability with other languages - C, C++ etc.
 * [Example of linking to and calling Rust code from C](https://github.com/doublec/rust-from-c-example)
 * [Side by side comparison of similar features of Rust and C](https://github.com/MarcManiez/Intro-to-Rust)
 * [Small projects and notes on how to call rust from C etc.](https://github.com/allan-simon/ffi-rust)
+* [Using Rust Code in a C/C++ Project with CMake](https://github.com/ekse/cmake_rust_sample)
+* [Using Rust Code in a C/C++ Project with CMake -- Blog Post](https://blog.devolutions.net/2018/06/insider-series-using-rust-code-in-a-cc-project-with-cmake)
 
 ## Contributions
 
