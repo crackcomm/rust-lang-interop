@@ -12,6 +12,7 @@ Rust language interoperability with other languages - C, C++ etc.
 * [rustcxx](https://github.com/google/rustcxx) - Using C++ from Rust made easy
 * [rust-bindgen](https://github.com/rust-lang-nursery/rust-bindgen) - Automatically generates Rust FFI bindings to C (and some C++) libraries
 * [cxx2rs](https://github.com/manuels/cxx2rs) - A rust-binding generator for C files
+* [cxx](https://github.com/dtolnay/cxx) - C++ FFI without unsafe code, with easy interop of either language's common standard library types
 
 ## Guides
 
