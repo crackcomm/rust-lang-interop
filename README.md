@@ -12,6 +12,7 @@ Rust language interoperability with other languages - C, C++ etc.
 * [rust-bindgen](https://github.com/rust-lang-nursery/rust-bindgen) - Automatically generates Rust FFI bindings to C (and some C++) libraries
 * [cxx2rs](https://github.com/manuels/cxx2rs) - A rust-binding generator for C files
 * [cxx](https://github.com/dtolnay/cxx) - C++ FFI without unsafe code, with easy interop of either language's common standard library types
+* [ocaml-rs](https://github.com/zshipko/ocaml-rs) - OCaml extensions in Rust
 
 ## Guides
 
