@@ -13,6 +13,7 @@ Rust language interoperability with other languages - C, C++ etc.
 * [cxx2rs](https://github.com/manuels/cxx2rs) - A rust-binding generator for C files
 * [cxx](https://github.com/dtolnay/cxx) - C++ FFI without unsafe code, with easy interop of either language's common standard library types
 * [ocaml-rs](https://github.com/zshipko/ocaml-rs) - OCaml extensions in Rust
+* [pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
 
 ## Guides
 
