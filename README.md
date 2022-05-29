@@ -4,6 +4,7 @@ Rust language interoperability with other languages - C, C++ etc.
 
 ## Projects
 
+* [autocxx](https://github.com/google/autocxx) - Generating interfaces automatically from existing C++
 * [crust](https://github.com/NishanthSpShetty/crust) - C/C++ to Rust transpiler
 * [cbindgen](https://github.com/eqrion/cbindgen) - A project for generating C bindings from Rust code
 * [cc-rs](https://github.com/alexcrichton/cc-rs) - Rust library for build scripts to compile C/C++ code into a Rust library
