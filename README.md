@@ -33,6 +33,7 @@ Rust language interoperability with other languages - C, C++ etc.
 * [Small projects and notes on how to call rust from C etc.](https://github.com/allan-simon/ffi-rust)
 * [Using Rust Code in a C/C++ Project with CMake](https://github.com/ekse/cmake_rust_sample)
 * [Sample code to use rust based library within C code](https://github.com/alishir/c-rust)
+* [Rust + Go](https://github.com/mediremi/rust-plus-golang)
 
 ## Contributions
 
