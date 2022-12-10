@@ -4,14 +4,14 @@ Rust language interoperability with other languages - C, C++ etc.
 
 ## Projects
 
-* [autocxx](https://github.com/google/autocxx) - Generating interfaces automatically from existing C++
+* [autocxx](https://github.com/google/autocxx) - Generates interfaces automatically from existing C++
 * [crust](https://github.com/NishanthSpShetty/crust) - C/C++ to Rust transpiler
-* [cbindgen](https://github.com/eqrion/cbindgen) - A project for generating C bindings from Rust code
+* [cbindgen](https://github.com/eqrion/cbindgen) - Generates C bindings from Rust code
 * [cc-rs](https://github.com/alexcrichton/cc-rs) - Rust library for build scripts to compile C/C++ code into a Rust library
-* [rust-cpp](https://github.com/mystor/rust-cpp) - Embed C++ directly inside your rust code!
-* [rustcxx](https://github.com/google/rustcxx) - Using C++ from Rust made easy
-* [rust-bindgen](https://github.com/rust-lang-nursery/rust-bindgen) - Automatically generates Rust FFI bindings to C (and some C++) libraries
-* [cxx2rs](https://github.com/manuels/cxx2rs) - A rust-binding generator for C files
+* [rust-cpp](https://github.com/mystor/rust-cpp) - Embeds C++ directly inside your rust code
+* [rustcxx](https://github.com/google/rustcxx) - Makes using C++ from Rust easy
+* [rust-bindgen](https://github.com/rust-lang-nursery/rust-bindgen) - Automatically generates Rust FFI bindings to C libraries
+* [cxx2rs](https://github.com/manuels/cxx2rs) - Rust-binding generator for C files
 * [cxx](https://github.com/dtolnay/cxx) - C++ FFI without unsafe code, with easy interop of either language's common standard library types
 * [ocaml-rs](https://github.com/zshipko/ocaml-rs) - OCaml extensions in Rust
 * [pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
